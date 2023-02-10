@@ -49,7 +49,7 @@
 
 * 0 Hz = 0 V
 
-![image](https://user-images.githubusercontent.com/116774235/218015118-7dc60c6c-7e76-4f3a-b7c6-6d2a08762c6f.png)
+![image](https://user-images.githubusercontent.com/116774235/218023475-114407e6-d7e0-493a-a829-ccf4eb0b993d.png)
 
 * 10 Hz = 6.5 V
 

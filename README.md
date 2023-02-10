@@ -201,7 +201,7 @@
 
 ***TABLA DE VALORES MEDIDOS***
 
-![image](https://user-images.githubusercontent.com/116774235/218109674-0b960bc8-aefc-4b53-aafa-bb25a7c70e23.png)
+![image](https://user-images.githubusercontent.com/116774235/218111026-904f7485-a49b-4a0d-b007-5890a3268912.png)
 
 **c)** Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados.
 

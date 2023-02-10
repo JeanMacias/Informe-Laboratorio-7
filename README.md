@@ -54,4 +54,6 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218019700-2a27c087-9c46-487b-9e6b-4e6c05cc3aba.png)
 
-* 50 Hz =
+* 50 Hz = 9.94
+
+![image](https://user-images.githubusercontent.com/116774235/218019979-45620308-2b3e-407b-9883-3917b38de7f7.png)

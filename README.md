@@ -55,9 +55,9 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218024186-0fc5220b-0ae3-46ac-a0ec-904dfa1be775.png)
 
-* 50 Hz = 9.94
+* 50 Hz = 3.35 V
 
-![image](https://user-images.githubusercontent.com/116774235/218019979-45620308-2b3e-407b-9883-3917b38de7f7.png)
+![image](https://user-images.githubusercontent.com/116774235/218026670-124314f8-e115-43c6-bf06-ac22603b3ad5.png)
 
 * 100 Hz = 9.86 V
 

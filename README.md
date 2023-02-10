@@ -14,7 +14,7 @@
 
 *
 
-# **7.2 MATERIALES**
+# **MATERIALES**
 
 * Laboratorio Virtual ACDCLab
 
@@ -32,7 +32,7 @@
 
 * Resistencias, bobinas y capacitores
 
-# **7.3 PROCEDIMIENTO**
+# **PROCEDIMIENTO**
 
 **1. Construya en el protoboard el circuito mostrado en la Figura 1.**
 

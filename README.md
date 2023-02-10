@@ -54,3 +54,4 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218019700-2a27c087-9c46-487b-9e6b-4e6c05cc3aba.png)
 
+* 50 Hz =

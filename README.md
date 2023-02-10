@@ -48,7 +48,7 @@
 
 * 0 Hz
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116774235/218088818-31a4b5ae-9e14-4f58-af4c-01e5ae4cb1bf.png)
 
 * 10 Hz
 

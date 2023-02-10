@@ -75,14 +75,26 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 * 0 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218091531-8de577fa-c943-4fb0-9351-1ca4909e34e2.png)
+
 * 10 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218091489-be6bc305-8889-4251-900a-62f23d28b588.png)
 
 * 50 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218091402-01daba17-1aa1-46b8-a199-3bf6dd1a33fc.png)
+
 * 100 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218091329-0d408d7f-c926-43d2-b703-1fb17cbcd064.png)
 
 * 500 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218091266-c4cb2c9c-344e-4f0e-a9e2-d876e8f8cc7b.png)
+
 * 1000 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218091188-034eb935-02b8-49c1-966a-df3b856e10e0.png)
 
 

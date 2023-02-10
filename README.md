@@ -50,4 +50,7 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218015118-7dc60c6c-7e76-4f3a-b7c6-6d2a08762c6f.png)
 
-* 10 Hz =
+* 10 Hz = 10 V
+
+![image](https://user-images.githubusercontent.com/116774235/218019700-2a27c087-9c46-487b-9e6b-4e6c05cc3aba.png)
+

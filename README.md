@@ -100,12 +100,24 @@
 
 * 0 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218092309-608ed5a8-17f7-4969-9875-40407ee1e248.png)
+
 * 10 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218092413-f9f65e41-8f8f-4330-a8e3-b32434301330.png)
 
 * 50 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218092512-493fe196-59ba-46f2-9b05-d1d0d7b691d5.png)
+
 * 100 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218092578-98c2012a-89c0-4a5d-9fc5-0ccd40d089a1.png)
 
 * 500 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218092680-1514de21-2964-4666-96ee-c90e2b2e45c6.png)
+
 * 1000 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218092824-bc3289e1-fd47-4da5-b4cf-952422e89c78.png)

@@ -46,28 +46,29 @@
 
 **a)** Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
 
-* 0 Hz = 0 V
+* 0 Hz
 
 ![image](https://user-images.githubusercontent.com/116774235/218027846-2f8fc2f6-5b58-46a1-bd57-864441662b08.png)
 
-* 10 Hz = 9.97 V
+* 10 Hz
 * 
 ![image](https://user-images.githubusercontent.com/116774235/218087431-052f7d62-eb67-43bc-9459-fc1b4f21a711.png)
 
-* 50 Hz = 9.97
+* 50 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218028607-7228ab63-8a92-4cf7-889d-6c4188830e99.png)
+![image](https://user-images.githubusercontent.com/116774235/218087686-2f0ba7a3-1abd-490f-8d0a-c78b98f625b2.png)
 
-* 100 Hz = 9.86 V
+* 100 Hz 
 
-![image](https://user-images.githubusercontent.com/116774235/218028708-05486c9a-d337-4907-84da-254faa05367e.png)
+![image](https://user-images.githubusercontent.com/116774235/218088012-73da0e75-8d6f-4c98-ba97-a7af3a79d59c.png)
 
-* 500 Hz = 8.45 V
+* 500 Hz 
 
-![image](https://user-images.githubusercontent.com/116774235/218028909-f6dbf933-9f19-4772-82e5-db513ca30cd5.png)
+![image](https://user-images.githubusercontent.com/116774235/218088251-22d61919-b13f-491f-9786-228bcda40fff.png)
 
 * 1000 Hz = 6.18 V
 
-![image](https://user-images.githubusercontent.com/116774235/218029172-da013a4e-9bbf-42fd-b585-e5b9eead6093.png)
+![image](https://user-images.githubusercontent.com/116774235/218088417-5c6b2c19-8ac8-4877-bc84-98442309901a.png)
+
 
 

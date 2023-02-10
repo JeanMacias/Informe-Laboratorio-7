@@ -70,6 +70,10 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218088417-5c6b2c19-8ac8-4877-bc84-98442309901a.png)
 
+***TABLA DE VALORES DE MEDICIONES***
+
+![image](https://user-images.githubusercontent.com/116774235/218096177-2094740e-3b63-4db5-a738-9968f436ce39.png)
+
 **b)** Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los resultados.
 
 * 0 Hz
@@ -96,6 +100,10 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218091188-034eb935-02b8-49c1-966a-df3b856e10e0.png)
 
+***TABLA DE VALORES DE MEDICIONES***
+
+![image](https://user-images.githubusercontent.com/116774235/218096053-3106f35d-0371-43e4-b4f9-63d84f0306d9.png)
+
 **c)** Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados.
 
 * 0 Hz
@@ -121,4 +129,9 @@
 * 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/116774235/218093176-4b29f3c5-b234-4462-8a58-489fe75f0ef0.png)
+
+***TABLA DE VALORES DE MEDICIONES***
+
+![image](https://user-images.githubusercontent.com/116774235/218095950-3fa6601c-0f1d-4edd-9df7-4b58ca729900.png)
+
 

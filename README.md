@@ -207,14 +207,26 @@
 
 * 0 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218110160-6ea686e2-a4db-4f4f-84d6-1ae26c479973.png)
+
 * 10 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218110258-3508d729-42b1-4e0c-91fc-de3dec66db72.png)
 
 * 50 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218110388-d08bcbcd-2cd9-4182-bf82-b40fcdc5b241.png)
+
 * 100 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218110474-a7b60723-0221-45b8-bd66-30cb0f0509d4.png)
 
 * 500 Hz
 
+![image](https://user-images.githubusercontent.com/116774235/218110583-adda7cb3-ea0a-458c-9d1b-6c93c429b737.png)
+
 * 1000 Hz
+
+![image](https://user-images.githubusercontent.com/116774235/218110702-1ca88878-7f22-4c08-945c-39fee079f697.png)
 
 ***TABLA DE VALORES DE MEDICIONES***

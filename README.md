@@ -233,3 +233,6 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218111347-2c45d554-a4d2-40a0-a7b0-48bf8f62679a.png)
 
+**3. Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
+
+![image](https://user-images.githubusercontent.com/116774235/218112388-f0c7b1f4-8164-4add-8691-bf94baa44325.png)

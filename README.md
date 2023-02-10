@@ -48,10 +48,10 @@
 
 * 0 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218027846-2f8fc2f6-5b58-46a1-bd57-864441662b08.png)
+![Uploading image.png…]()
 
 * 10 Hz
-* 
+
 ![image](https://user-images.githubusercontent.com/116774235/218087431-052f7d62-eb67-43bc-9459-fc1b4f21a711.png)
 
 * 50 Hz

@@ -134,4 +134,8 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218095950-3fa6601c-0f1d-4edd-9df7-4b58ca729900.png)
 
+**2. Construya el circuito mostrado en la Figura 2.**
 
+***FIGURA 2:***
+
+![image](https://user-images.githubusercontent.com/116774235/218096644-6b4578e3-b356-4290-9e59-cf987c5b7f7d.png)

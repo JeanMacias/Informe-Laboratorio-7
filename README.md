@@ -65,3 +65,6 @@
 * 500 Hz = 8.43 V
 
 ![image](https://user-images.githubusercontent.com/116774235/218020614-43b65860-f131-4819-b7f5-2ebdabd27d31.png)
+
+* 1000 Hz = 
+

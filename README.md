@@ -6,7 +6,7 @@
 
 # **OBJETIVOS**
 
-## **OBJETIVO GENERAL**
+### **OBJETIVO GENERAL**
 
 ### **OBJETIVOS ESPECÍFICOS**
 

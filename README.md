@@ -66,7 +66,7 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218088251-22d61919-b13f-491f-9786-228bcda40fff.png)
 
-* 1000 Hz = 6.18 V
+* 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/116774235/218088417-5c6b2c19-8ac8-4877-bc84-98442309901a.png)
 

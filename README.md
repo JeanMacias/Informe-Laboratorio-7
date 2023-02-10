@@ -70,5 +70,19 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218088417-5c6b2c19-8ac8-4877-bc84-98442309901a.png)
 
+**b)** Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+* 0 Hz
+
+* 10 Hz
+
+* 50 Hz
+
+* 100 Hz
+
+* 500 Hz
+
+* 1000 Hz
 
 

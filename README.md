@@ -257,7 +257,7 @@ Al conectar una Corriente Alterna sinusoidal v(t) a una bobina aparecerá una co
 
 Al conectar una Corriente Alterna sinusoidal v(t) a un Capacitor circulará una corriente i(t), también sinusoidal, que lo cargará, originando en sus bornes una caída de tensión, -vc(t), cuyo valor absoluto puede demostrarse que es igual al de v(t).
 
-* **¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+* **¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
 El voltaje y corriente dentro de los circuitos variaría en cada bobina o capacitor según como lo conectemos ya que los capacitores en serie se dividen y en paralelo se suman, encambio con las bobinas es al revés en serie se suman y en paralelo se dividen.
 

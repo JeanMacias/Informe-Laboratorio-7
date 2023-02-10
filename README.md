@@ -100,24 +100,25 @@
 
 * 0 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218092309-608ed5a8-17f7-4969-9875-40407ee1e248.png)
+![image](https://user-images.githubusercontent.com/116774235/218093631-4350e8e3-03db-4f13-a0e0-a6f290d6c61c.png)
 
 * 10 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218092413-f9f65e41-8f8f-4330-a8e3-b32434301330.png)
+![image](https://user-images.githubusercontent.com/116774235/218093557-234b7d4c-3b59-428f-842b-6a06bc7c4109.png)
 
 * 50 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218092512-493fe196-59ba-46f2-9b05-d1d0d7b691d5.png)
+![image](https://user-images.githubusercontent.com/116774235/218093494-a33937c2-8029-4626-b636-490edab74f6c.png)
 
 * 100 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218092578-98c2012a-89c0-4a5d-9fc5-0ccd40d089a1.png)
+![image](https://user-images.githubusercontent.com/116774235/218093392-a1d64735-b4bf-4d37-919b-09aa06d08543.png)
 
 * 500 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218092680-1514de21-2964-4666-96ee-c90e2b2e45c6.png)
+![image](https://user-images.githubusercontent.com/116774235/218093315-c8c54b3b-e058-487c-ad10-dc3515a77351.png)
 
 * 1000 Hz
 
-![image](https://user-images.githubusercontent.com/116774235/218092824-bc3289e1-fd47-4da5-b4cf-952422e89c78.png)
+![image](https://user-images.githubusercontent.com/116774235/218093176-4b29f3c5-b234-4462-8a58-489fe75f0ef0.png)
+

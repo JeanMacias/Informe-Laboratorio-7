@@ -230,3 +230,6 @@
 ![image](https://user-images.githubusercontent.com/116774235/218110702-1ca88878-7f22-4c08-945c-39fee079f697.png)
 
 ***TABLA DE VALORES DE MEDICIONES***
+
+![image](https://user-images.githubusercontent.com/116774235/218111347-2c45d554-a4d2-40a0-a7b0-48bf8f62679a.png)
+

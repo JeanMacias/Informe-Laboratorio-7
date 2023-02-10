@@ -51,9 +51,9 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218027846-2f8fc2f6-5b58-46a1-bd57-864441662b08.png)
 
-* 10 Hz = 6.5 V
+* 10 Hz = 9.99 V
 
-![image](https://user-images.githubusercontent.com/116774235/218024186-0fc5220b-0ae3-46ac-a0ec-904dfa1be775.png)
+![image](https://user-images.githubusercontent.com/116774235/218028367-437c139b-c088-4a82-8391-3672cbfb0d8d.png)
 
 * 50 Hz = 9.94
 

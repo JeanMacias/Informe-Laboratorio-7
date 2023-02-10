@@ -57,3 +57,6 @@
 * 50 Hz = 9.94
 
 ![image](https://user-images.githubusercontent.com/116774235/218019979-45620308-2b3e-407b-9883-3917b38de7f7.png)
+
+* 100 Hz =
+

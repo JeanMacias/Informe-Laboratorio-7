@@ -1,6 +1,6 @@
 # Informe-Laboratorio-7
 
-**NOMBRES: JOAN CALDERÓN, JEAN MACIAS**
+**NOMBRES:** JOAN CALDERÓN, JEAN MACIAS
 
-**NRC: 10063**
+**NRC:** 10063
 

@@ -40,9 +40,10 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/217982009-f376e51d-5aa6-405a-9254-c28deacbbf40.png)
 
-***CIRCUITO ARMADO EN ACDC:***
+***CIRCUITO ARMADO EN PROTEUS***
 
-![image](https://user-images.githubusercontent.com/116774235/217982223-9d8b1035-6219-4c6e-b5ac-8429999a6287.png)
+![image](https://user-images.githubusercontent.com/116774235/218022399-a0c106c6-f77b-405b-842a-985605afecbe.png)
+
 
 **a)** Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
 

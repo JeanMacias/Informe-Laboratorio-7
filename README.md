@@ -58,5 +58,10 @@
 
 ![image](https://user-images.githubusercontent.com/116774235/218019979-45620308-2b3e-407b-9883-3917b38de7f7.png)
 
-* 100 Hz =
+* 100 Hz = 9.86 V
 
+![image](https://user-images.githubusercontent.com/116774235/218020351-9ac91b7e-c281-4b10-aed9-2c91ae309f45.png)
+
+* 500 Hz = 8.43 V
+
+![image](https://user-images.githubusercontent.com/116774235/218020614-43b65860-f131-4819-b7f5-2ebdabd27d31.png)

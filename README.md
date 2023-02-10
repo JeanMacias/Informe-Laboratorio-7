@@ -198,3 +198,7 @@
 * 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/116774235/218109261-20986be8-e86b-4c76-b608-d222a66c8e35.png)
+
+***TABLA DE VALORES MEDIDOS***
+
+![image](https://user-images.githubusercontent.com/116774235/218109674-0b960bc8-aefc-4b53-aafa-bb25a7c70e23.png)

@@ -53,7 +53,7 @@
 
 * 10 Hz = 10 V
 
-![image](https://user-images.githubusercontent.com/116774235/218019700-2a27c087-9c46-487b-9e6b-4e6c05cc3aba.png)
+![image](https://user-images.githubusercontent.com/116774235/218022964-4d9691bc-3f08-44c2-94b9-bc77b4b80bc1.png)
 
 * 50 Hz = 9.94
 

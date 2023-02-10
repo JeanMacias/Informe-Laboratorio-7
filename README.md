@@ -43,3 +43,7 @@
 ***CIRCUITO ARMADO EN ACDC:***
 
 ![image](https://user-images.githubusercontent.com/116774235/217982223-9d8b1035-6219-4c6e-b5ac-8429999a6287.png)
+
+**a)** Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
+
+

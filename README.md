@@ -143,7 +143,7 @@
 ***CIRCUITO ARMADO EN ACDCLab***
 
 
-**a)** Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+**a)** Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
 
 * 0 Hz
 
@@ -168,3 +168,21 @@
 * 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/116774235/218100385-48bc41d5-828e-48e8-a956-d80118bf74ed.png)
+
+***TABLA DE VALORES MEDIDOS***
+
+![image](https://user-images.githubusercontent.com/116774235/218108074-6e3d6906-6791-4d0b-8ad7-42e03c42fc4f.png)
+
+**b)** Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los resultados.
+
+* 0 Hz
+
+* 10 Hz
+
+* 50 Hz
+
+* 100 Hz
+
+* 500 Hz
+
+* 1000 Hz

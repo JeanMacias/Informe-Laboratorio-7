@@ -39,3 +39,7 @@
 ***FIGURA 1:***
 
 ![image](https://user-images.githubusercontent.com/116774235/217982009-f376e51d-5aa6-405a-9254-c28deacbbf40.png)
+
+***CIRCUITO ARMADO EN ACDC:***
+
+![image](https://user-images.githubusercontent.com/116774235/217982223-9d8b1035-6219-4c6e-b5ac-8429999a6287.png)

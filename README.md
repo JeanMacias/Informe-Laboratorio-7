@@ -46,7 +46,8 @@
 
 **a)** Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
 
-* 0 Hz
+* 0 Hz = 0 V
 
 ![image](https://user-images.githubusercontent.com/116774235/218015118-7dc60c6c-7e76-4f3a-b7c6-6d2a08762c6f.png)
 
+* 10 Hz =
